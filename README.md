@@ -13,4 +13,4 @@ Explanation: In this Program, a Bank System is Made with the help of OOPs concep
     1. Store details about the account balance.
     2. Stores details about the amount.
     3. Allows for Deposit, withdraw and view balance.
-In Demo, initially, The User wants to show the Details and then a deposit has been done of 2000 rupees which is reflecting in the current balance as 2000. In addition to that, a withdrawal is done of 200 rupees which is reflecting in the current balance as 1800.
+In Demo, initially, The User wants to show the Details and then a deposit has been done of 2000 rupees which is reflecting in the current balance as 2000. In addition to that, a withdrawal is done of 200 rupees which is reflecting in the current balance as 1800.Then an Example of Insufficient Funds is also displayed.
